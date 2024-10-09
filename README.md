@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project where I make a recipe page
